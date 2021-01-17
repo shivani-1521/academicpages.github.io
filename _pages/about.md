@@ -9,5 +9,5 @@ redirect_from:
 ---
 
 I am Shivani Singh, final year student of Electrical and Electronics Engineering (Integrated Degree) at Birla Institute of Technology and Science, Pilani.      
-I am presently working on undergraduate thesis supervised by [Dr. Anja Feldmann](https://www.mpi-inf.mpg.de/departments/inet/people/anja-feldmann) at [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home/).
+I am presently working on my undergraduate thesis supervised by [Dr. Anja Feldmann](https://www.mpi-inf.mpg.de/departments/inet/people/anja-feldmann) at [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home/).
 
